@@ -8,4 +8,3 @@ while random != 7
 	random = rand(1..10)
 
 end
-
